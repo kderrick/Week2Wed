@@ -1,19 +1,19 @@
+// $(function() {
+//   var flavors = ["Vanilla", "Chocolate", "Peppermint", "Pistachio"]
+//
+//   flavors.forEach(function(flavor) {
+//    alert("I love " + flavor + " ice cream")
+//   });
+// });
+
+
 $(function() {
   var flavors = ["Vanilla", "Chocolate", "Peppermint", "Pistachio"]
 
-  flavors.forEach(function(flavor) {
-   alert("I love " + flavor + " ice cream")
+  $("#button").click(function() {
+    $(".output").empty();
+    for(var index = 0; index < flavors.length; index += 1) {
+      $(".output").append("<li>I love " + flavors[index] + " ice cream!</li>");
+    }
   });
-
-
 });
-
-
-
-  var total = 1
-  var numbers = [1, 2, 5, 90, 2, 4]
-
-  numbers.forEach(function(number){
-    total *= number;
-
-  });
