@@ -1,6 +1,6 @@
 # Week2Wed
 
-#### This repo contains several "Applications" that were built in order to practice using Jquery, Javascript, HTML and CSS. Specifically for loops and branching.
+#### This repo contains several "Applications" that were built in order to practice using Jquery, Javascript, HTML and CSS. Specifically for loops and branching. Built during my 2nd week at Epicodus.
 
 
 #### By Kyle Derrick
