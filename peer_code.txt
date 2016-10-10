@@ -1,0 +1,13 @@
+* Is the HTML and CSS code indented and spaced properly?
+
+Very well indented, all tags lined up properly.
+
+* Are the Git commits in the proper tense?
+
+Yes, all commits refer to "it will"
+
+* Does the README follow the proper format?
+
+Should add README file onto each repository.
+
+Nice work you two, great work on getting through a lot of dense js looping lessons with success!
